@@ -2,7 +2,7 @@
 
 # AIM:
 
-To study the problem statement ,SRS document and draw the UML diagram of railway management system system
+To study the problem statement ,SRS document and draw the UML diagram of railway management system.
 
 # SRS (Procedure):
 
